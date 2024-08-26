@@ -4,7 +4,7 @@ const americanToBritishTitles = require('./american-to-british-titles.js');
 const britishOnly = require('./british-only.js');
 
 class Translator {
-
+// TODO all logic goes here
 }
 
 module.exports = Translator;
